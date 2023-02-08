@@ -11,6 +11,9 @@ Esse é um simples projeto para Desktop desenvolvido na linguagem C# utilizando 
 - .NET Framework
 - SQL SERVER
 
+# Imagem do projeto
+![Screenshot](https://user-images.githubusercontent.com/101680647/217565015-ce80d1d5-f24d-468f-a885-e38014825068.png)
+
 # Como executar o projeto
 
 Passos para utilizar o sistema de login corretamente:
