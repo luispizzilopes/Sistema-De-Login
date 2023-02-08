@@ -25,7 +25,7 @@ Passos para utilizar o sistema de login corretamente:
 o banco de dados local; 
 
 5- Acesse o seguinte local: "SistemaLogin\bin\Debug\net6.0-windows", e abra o arquivo "LocalConexao.dll" com o bloco de notas e 
-edite a última parte do comando "Data Source=Nome do seu servidor local" e salve o arquivo
+edite a última parte do comando "Data Source=Nome do seu servidor local" e salve o arquivo;
 
 6-Pronto! Abra o arquivo .exe na pasta bin do projeto ou debug o projeto pelo Visual Studio.
 
