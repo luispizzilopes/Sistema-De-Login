@@ -14,13 +14,14 @@ Esse é um simples projeto para Desktop desenvolvido na linguagem C# utilizando 
 # Como executar o projeto
 
 Passos para utilizar o sistema de login corretamente:
+
 1- Faça a instalação do Visual Studio;
 
 2- Faça a instalação do SQL SERVER;
 
 3- Faça a instalação do SQL SERVER Management Studio;
 
-4- Abra o arquivo Create-database-BdLogin no local: "SistemaLogin/database" com o SQL Management Studio, e execute o comando para criar
+4- Abra o arquivo Create-database-BdLogin no local: "database" com o SQL Management Studio, e execute o comando para criar
 o banco de dados local; 
 
 5- Acesse o seguinte local: "SistemaLogin\bin\Debug\net6.0-windows", e abra o arquivo "LocalConexao.dll" com o bloco de notas e 
