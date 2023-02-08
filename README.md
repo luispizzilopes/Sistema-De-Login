@@ -18,11 +18,11 @@ Esse é um simples projeto para Desktop desenvolvido na linguagem C# utilizando 
 
 Passos para utilizar o sistema de login corretamente:
 
-1- Faça a instalação do Visual Studio;
+1- Faça a instalação do Visual Studio - link: https://visualstudio.microsoft.com/pt-br/thank-you-downloading-visual-studio/?sku=Community&channel=Release&version=VS2022&source=VSLandingPage&cid=2030&passive=false; 
 
-2- Faça a instalação do SQL SERVER;
+2- Faça a instalação do SQL SERVER - link: https://go.microsoft.com/fwlink/p/?linkid=2216019&clcid=0x416&culture=pt-br&country=br; 
 
-3- Faça a instalação do SQL SERVER Management Studio;
+3- Faça a instalação do SQL SERVER Management Studio - link: https://aka.ms/ssmsfullsetup;
 
 4- Abra o arquivo Create-database-BdLogin no local: "database" com o SQL Management Studio, e execute o comando para criar
 o banco de dados local; 
