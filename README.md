@@ -36,4 +36,3 @@ edite a última parte do comando "Data Source=Nome do seu servidor local" e salv
 Luis Felipe Pizzi Lopes
 
 https://br.linkedin.com/in/luis-felipe-pizzi-lopes-04b531204
-
